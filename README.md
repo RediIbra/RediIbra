@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer with 3 years of experience.A creative thinker, adept in software who is skilled in using JavaScript Technologies & libraries. Create the main focus on making applications well-designed and user-friendly, developing and working with various data structures. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning **NextJS**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/redi-ibra4/](https://www.linkedin.com/in/redi-ibra4/)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **redi_ibra04@outlook.com**
 
-- 📄 Know about my experiences [file:///Users/redi/Desktop/redi-documents/Redi_Ibra_Software_Developer.pdf](file:///Users/redi/Desktop/redi-documents/Redi_Ibra_Software_Developer.pdf)
+- 📄 Know about my experiences: [file:///Users/redi/Desktop/redi-documents/Redi_Ibra_Software_Developer.pdf](file:///Users/redi/Desktop/redi-documents/Redi_Ibra_Software_Developer.pdf)
 
 - ⚡ Fun fact **I like being outside way from computer...**
 
