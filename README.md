@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Redi Ibra</h1>
 <h3 align="center">Full-stack developer with 3 years of experience.A creative thinker, adept in software who is skilled in using JavaScript Technologies & libraries. Create the main focus on making applications well-designed and user-friendly, developing and working with various data structures. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rediibra&label=Profile%20views&color=0e75b6&style=flat" alt="rediibra" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gifhttps://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rediibra&label=Profile%20views&color=0e75b6&style=flat" alt="rediibra" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rediibra" alt="rediibra" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS**
