@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Redi Ibra</h1>
 <h3 align="center">Full-stack developer with 3 years of experience.A creative thinker, adept in software who is skilled in using JavaScript Technologies & libraries. Create the main focus on making applications well-designed and user-friendly, developing and working with various data structures. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **NextJS**
+
+- 🌱 I’m currently learning NextJS
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/redi-ibra4/](https://www.linkedin.com/in/redi-ibra4/)
 
