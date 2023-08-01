@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **redi_ibra04@outlook.com**
 
-- 📄 Know about my experiences: [file:///Users/redi/Desktop/redi-documents/Redi_Ibra_Software_Developer.pdf](file:///Users/redi/Desktop/redi-documents/Redi_Ibra_Software_Developer.pdf)
-
 - ⚡ Fun fact **I like being outside way from computer...**
 
 <h3 align="left">Connect with me:</h3>
