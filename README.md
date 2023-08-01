@@ -9,7 +9,7 @@
 - 💬 Ask me about **Programming (react,nodejs,javascript)**
 
 - 📫 How to reach me **redi_ibra04@outlook.com**
-
+   
 - ⚡ Fun fact **I like being outside way from computer...**
 
 <h3 align="left">Connect with me:</h3>
