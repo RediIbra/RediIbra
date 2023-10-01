@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TeamSystem Italia<br>🌱 I’m currently learning NextJS<br>💬 Ask me about Programming (react,nodejs, javascript)<br>⚡ Fun fact I like being outside away from the computer...<br>
+🔭 I’m currently working on TeamSystem Italia<br>🌱 I’m currently learning NextJS<br>💬 Ask me about Programming (react,nodejs, javascript)<br>⚡ Fun fact I like being outside away from the computer...<br>💼 My portfolio:https://redi-ibra-portofolio.netlify.app
 
 
 ## 🌐 Socials:
