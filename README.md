@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on TeamSystem Italia<br>🌱 I’m currently learning NextJS<br>💬 Ask me about Programming (react,nodejs, javascript)<br>⚡ Fun fact I like being outside away from the computer...<br>💼 My portfolio:https://redi-ibra-portofolio.netlify.app
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d4d3cac3-dbcb-482d-aef8-25da96c297b2/deploy-status)](https://app.netlify.com/sites/redi-ibra-portofolio/deploys)
 
 
 ## 🌐 Socials:
@@ -11,7 +12,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RediIbra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RediIbra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d4d3cac3-dbcb-482d-aef8-25da96c297b2/deploy-status)](https://app.netlify.com/sites/redi-ibra-portofolio/deploys)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RediIbra&theme=radical&no-frame=true&no-bg=false&margin-w=4)
