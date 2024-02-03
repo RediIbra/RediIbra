@@ -105,9 +105,6 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RediIbra&hide_border=true&layout=compact" align="center" /></div>  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RediIbra&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
