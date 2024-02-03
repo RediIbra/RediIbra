@@ -13,17 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RediIbra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RediIbra&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=RediIbra&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -130,15 +120,17 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RediIbra&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RediIbra&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<br/>  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<br/>  
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=RediIbra&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
 <br/>  
 <div align="center">
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" align="center" style="width: 100%" />
