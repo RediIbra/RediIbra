@@ -79,21 +79,12 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/RediIbra" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github  />
-</a> 
-<a href="https://www.linkedin.com/in/redi-ibra4/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-</a>
-<a href="https://www.facebook.com/redi.ibra.31/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook  />
-</a>
-<a href="https://www.instagram.com/redii_ibra/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram  />
-</a>
-<a href="https://stackoverflow.com/users/22473481/redi" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow />
-</a>  
+<p align="center">
+ <a href="https://www.buymeacoffee.com/vishwagauravin](https://www.buymeacoffee.com/redi.ibra" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+ <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 </div>  
   
 
