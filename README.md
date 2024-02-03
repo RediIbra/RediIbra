@@ -79,10 +79,8 @@
 
 ## Connect with me  
 <div align="center">
-<p align="center">
  <a href="https://www.buymeacoffee.com/vishwagauravin](https://www.buymeacoffee.com/redi.ibra" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-
-  <a href="https://linkedin.com/in/VishwaGauravIn](https://www.linkedin.com/in/redi-ibra4/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/VishwaGauravIn](https://www.linkedin.com/in/redi-ibra4/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/VishwaGauravIn](https://www.instagram.com/redii_ibra/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 </div>  
   
