@@ -5,18 +5,16 @@
   
 
 - 🔭 I’m currently working on TeamSystem Italia 🇮🇹  
-  
 
-- 🌱 I’m currently learning Next Js  
-  
+- 🌱 I’m currently learning AI
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- 💻 Skilled in MongoDB, Express, React, Node.js, .Net, Python and related web technologies — ask me anything about them! 
 
 - ⚡ Fun fact: I love sports, astrology, gym and traveling!
 
+- 💼 My portfolio:https://redi-ibra-portofolio.netlify.app
 
-- 💼 My portfolio:https://redi-ibra-portofolio.netlify.app 
+- ⭐ If you like my work, don’t forget to star a repo — it’s a small click that makes a big difference! 🚀
   
 
 <br/>  
