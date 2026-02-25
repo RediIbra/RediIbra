@@ -45,7 +45,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RediIbra&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
